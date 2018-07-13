@@ -4,8 +4,8 @@ Masters of Communication Design<br>
 Mondays, Studio 09.
 
 ### Course Outline
-This course will begin by looking into the roots of network culture in an effort to understand what the essence of a website is. You will begin by learning how to navigate your machine with the terminal, build a simple framework and deploy your first code to Github. 
+This course will begin by looking into the roots of network culture in an effort to understand what the fundamentals of what a website is and how it functions both oline and offline. You will begin by learning how to navigate your machine with the terminal, build a simple structure and deploy your first code to Github. 
 
-This course has a formal emphasis, utilising what knowledge students have about composition, typography, and hierarchy as a basis. We will understand interaction as a prompt and feedback, an input and output, a call and response. We will examine their relation but also not limit an interaction to a closed, hermetic environment, but view the web as a very social ecosystem in which time and performance play important roles.
+By utilising the understanding you have about composition, typography, and hierarchy as a basis, we will draw the comparisons between the contemporary tools used for offline design, and the modern web browser. We will examine and critique the current state of the post-capitalist internet, its conservative structures and aesthetics.
 
 
