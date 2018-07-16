@@ -20,8 +20,13 @@ Once your terminal is open you can add it to your Dock for quick access.
 
 ### git
 
-`git` should be already installed on your mac, but needs to be updated and XCode developer tools need to be installed.
-Run `git --version` in your terminal to start the process.
+`git` should be already installed on your Mac and almost ready to go. However when you first run `git` the XCode Developer Tools will need to be installed.
+
+In your terminal, run
+```
+git --version
+```
+to start the process if necessary.
 
 Next, Configure git credentials
 ```
