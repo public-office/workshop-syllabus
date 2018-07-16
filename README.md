@@ -4,7 +4,7 @@ Masters of Communication Design<br>
 Mondays, Studio 09.
 
 ### Course Outline
-This course will begin by looking into the roots of network culture in an effort to understand what the fundamentals of what a website is and how it functions both oline and offline. By utilising what you have learned about composition, typography, and hierarchy as a basis, we will draw the comparisons between the contemporary tools used for offline design and the modern web browser. The outcome for this series of workshops is a static portfolio.
+This course will begin by looking into the roots of network culture in an effort to understand what the fundamentals of what a website is and how it functions both online and offline. By utilising your knowledge about composition, typography, and hierarchy as a basis – we will draw the comparisons between the contemporary tools used for offline design and the modern web browser. The outcome for this series of workshops is a static portfolio.
 
 ### Pre-workshop
 Sign up for a free account at https://github.com - you will be using this to store and host the worko for the course, as well as final submission
