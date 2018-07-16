@@ -43,10 +43,12 @@ Your username will form part of your website addresses, ie `https://public-offic
 
 ### Text editor
 
-Install a text editor
+Computer code is text. When writing code you will use a plain text editor. Any text editor can work, however there are speciailised text editors that are designed for writing code, offering useful features such as syntax highlighting, code hints/completion and file management.
+
+Download and install one of the following code editors:
 
   * [Atom](https://atom.io/)<sup>*</sup>
   * [Sublime Text](https://www.sublimetext.com/)
   * [VSCode](https://code.visualstudio.com/)
 
-\* As **code is text**, you can use any plain text editor to write it. However we assume you will use Atom as your editor and will use it during the course.
+\* We assume you will choose Atom as your editor and will use it during the course.
