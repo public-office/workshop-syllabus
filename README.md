@@ -8,6 +8,21 @@ This course will begin by looking into the roots of network culture in an effort
 
 You will begin by learning how to navigate your machine with the terminal, build a simple structure and deploy your first code to Github. 
 
+Readings:
+[My website is a shifting house next to a river of knowledge. What could yours be? _ Laurel Schwulst](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
+
+Week 1:
+
+Readings:
+
+Week 2:
+
+Readings:
+
+Week 3:
+
+Readings:
+
 ----
 
 ## Setup Instructions
