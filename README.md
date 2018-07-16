@@ -18,6 +18,8 @@ Your Mac includes a console application called Terminal.app, located in `/Applic
 
 Once your terminal is open you can add it to your Dock for quick access.
 
+The terminal accepts a form of computer code at the prompt called `bash`, and is used to interact with the various functions of your computer.
+
 ### git
 
 `git` should be already installed on your Mac and almost ready to go. However when you first run `git` the XCode Developer Tools will need to be installed.
