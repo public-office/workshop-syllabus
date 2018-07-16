@@ -4,13 +4,14 @@ Masters of Communication Design<br>
 Mondays, Studio 09.
 
 ### Course Outline
-This course will begin by looking into the roots of network culture in an effort to understand what the fundamentals of what a website is and how it functions both oline and offline. By utilising what you have learned about composition, typography, and hierarchy as a basis, we will draw the comparisons between the contemporary tools used for offline design and the modern web browser. We will examine and critique the current state of the post-capitalist internet, its conservative structures and aesthetics... 
-
-You will begin by learning how to navigate your machine with the terminal, build a simple structure and deploy your first code to Github. 
+This course will begin by looking into the roots of network culture in an effort to understand what the fundamentals of what a website is and how it functions both oline and offline. By utilising what you have learned about composition, typography, and hierarchy as a basis, we will draw the comparisons between the contemporary tools used for offline design and the modern web browser. The outcome for this series of workshops is a static portfolio.
 
 Pre-workshop
-Todo: Sign up for a free account at https://github.com - you will be using this to store and host the worko for the course, as well as final submission
-Readings: [My website is a shifting house next to a river of knowledge. What could yours be? by Laurel Schwulst](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
+
+Todo
+: Sign up for a free account at https://github.com - you will be using this to store and host the worko for the course, as well as final submission
+Readings
+: [My website is a shifting house next to a river of knowledge. What could yours be? by Laurel Schwulst](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 
 Week 1: What is the internet?
 - A brief history of the internet
@@ -81,4 +82,4 @@ Download and install one of the following code editors:
   * [Sublime Text](https://www.sublimetext.com/)
   * [VSCode](https://code.visualstudio.com/)
 
-\* We assume you will choose Atom as your editor and will use it during the course.
+\* We assume you will choose Atom as your editor and Chrome as your web browser during this course.
