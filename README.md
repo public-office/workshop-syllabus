@@ -14,7 +14,7 @@ You will begin by learning how to navigate your machine with the terminal, build
 
 ### Terminal
 
-Your Mac includes a console application called Terminal.app, located in `/Applications/Utilities/Terminal.app`. The easiest way to open Terminal.app is to use the Spotlight shortcut <kbd>⌘</kbd>-<kbd>Space</kbd> and then type "Terminal".
+Your Mac includes a console application called Terminal.app, located in `/Applications/Utilities/Terminal.app`. The easiest way to open Terminal.app is to use the Spotlight shortcut <kbd>⌘</kbd>+<kbd>Space</kbd> and then type "Terminal".
 
 Once your terminal is open you can add it to your Dock for quick access.
 
@@ -30,14 +30,18 @@ git config --global credential.helper osxkeychain
 
 ### GitHub
 
+GitHub is an online platform for hosting code and providing tools for publication and collaboration with other developers. Your `git` command line tool will "push" and "pull" code from GitHub.
+
 Visit [GitHub](https://github.com) and create an account.
 Remember your username and password.
-Your username will form part of your website addresses, ie https://public-office.github.io/workshop-syllabus
+Your username will form part of your website addresses, ie `https://public-office.github.io/workshop-syllabus`
 
 ### Text editor
 
 Install a text editor
 
-  * [Atom](https://atom.io/)
+  * [Atom](https://atom.io/)<sup>*</sup>
   * [Sublime Text](https://www.sublimetext.com/)
   * [VSCode](https://code.visualstudio.com/)
+
+\* As code is just text, you can use any plain text editor to write it. However we assume you will use Atom as your editor and will use it during the course.
