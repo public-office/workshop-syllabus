@@ -8,31 +8,33 @@ This course will begin by looking into the roots of network culture in an effort
 
 You will begin by learning how to navigate your machine with the terminal, build a simple structure and deploy your first code to Github. 
 
-Readings:
-- [My website is a shifting house next to a river of knowledge. What could yours be? by Laurel Schwulst](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
+Pre-workshop
+Todo: Sign up for a free account at https://github.com - you will be using this to store and host the worko for the course, as well as final submission
+Readings: [My website is a shifting house next to a river of knowledge. What could yours be? by Laurel Schwulst](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 
-Week 1: HTML (Hypertext Markup Language)
+Week 1: What is the internet?
 - A brief history of the internet
 - An introduction to using the terminal
-- An introduction to using git/github
-- Basics of HTML
-
+- An introduction to using git & github
 Readings:
 -
 -
 
-Week 2: CSS (Cascading Style Sheets)
+Week 2: HTML (Hypertext Markup Language)
+- Basics of document structure
+- How do tags work? When to use what.
+- Setting up a project structure
+Readings:
+-
+-
+
+Week 3: CSS (Cascading Style Sheets)
+- the relationship between content and presentation
 - inline or external?
-- Basics of CSS including syntax, selectors, comments, styleing, positioning etc
-- 
-
+- Basics of CSS including syntax, selectors, comments, style, positioning etc
 Readings:
 -
 -
-
-Week 3:
-
-Readings:
 
 ----
 
