@@ -44,4 +44,4 @@ Install a text editor
   * [Sublime Text](https://www.sublimetext.com/)
   * [VSCode](https://code.visualstudio.com/)
 
-\* As code is just text, you can use any plain text editor to write it. However we assume you will use Atom as your editor and will use it during the course.
+\* As **code is text**, you can use any plain text editor to write it. However we assume you will use Atom as your editor and will use it during the course.
