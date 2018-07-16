@@ -7,7 +7,7 @@ Mondays, Studio 09.
 This course will begin by looking into the roots of network culture in an effort to understand what the fundamentals of what a website is and how it functions both online and offline. By utilising your knowledge about composition, typography, and hierarchy as a basis – we will draw the comparisons between the contemporary tools used for offline design and the modern web browser. The outcome for this series of workshops is a static portfolio.
 
 ### Pre-workshop
-Sign up for a free account at https://github.com - you will be using this to store and host the worko for the course, as well as final submission
+Sign up for a free account at https://github.com - you will be using this account to store and host the work you do for the course, as well as for final submissions.
 
 ### Readings
 [My website is a shifting house....by Laurel Schwulst](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
@@ -17,24 +17,21 @@ Sign up for a free account at https://github.com - you will be using this to sto
 - An introduction to using the terminal
 - An introduction to using git & github
 Readings:
--
--
+(tbc)
 
 ### Week 2: HTML (Hypertext Markup Language)
 - Basics of document structure
 - How do tags work? When to use what.
 - Setting up a project structure
 Readings:
--
--
+(tbc)
 
 ### Week 3: CSS (Cascading Style Sheets)
 - the relationship between content and presentation
 - inline or external?
 - Basics of CSS including syntax, selectors, comments, style, positioning etc
 Readings:
--
--
+(tbc)
 
 ----
 
