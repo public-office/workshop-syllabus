@@ -9,9 +9,10 @@ This course will begin by looking into the roots of network culture in an effort
 Pre-workshop
 
 Todo
-: Sign up for a free account at https://github.com - you will be using this to store and host the worko for the course, as well as final submission
+Sign up for a free account at https://github.com - you will be using this to store and host the worko for the course, as well as final submission
+
 Readings
-: [My website is a shifting house next to a river of knowledge. What could yours be? by Laurel Schwulst](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
+[My website is a shifting house next to a river of knowledge. What could yours be? by Laurel Schwulst](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 
 Week 1: What is the internet?
 - A brief history of the internet
