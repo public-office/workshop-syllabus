@@ -78,4 +78,9 @@ Download and install one of the following code editors:
   * [Sublime Text](https://www.sublimetext.com/)
   * [VSCode](https://code.visualstudio.com/)
 
-\* We assume you will choose Atom as your editor and Chrome as your web browser during this course.
+\* We assume you will choose Atom as your editor during the course.
+
+### Web browser
+
+In this course we will use Google Chrome as our web browser. If you haven't already, download and install Chrome [here](https://www.google.com/chrome/).
+
