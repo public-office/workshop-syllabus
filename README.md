@@ -16,6 +16,7 @@ Sign up for a free account at https://github.com - you will be using this accoun
 - A brief history of the internet
 - An introduction to using the terminal
 - An introduction to using git & github
+
 Readings:
 [The Shape of the Network....by Tung-Hui Hu] (https://ufile.io/cyfeu)
 
@@ -23,6 +24,7 @@ Readings:
 - Basics of document structure
 - How do tags work? When to use what.
 - Setting up a project structure
+
 Readings:
 (tbc)
 
@@ -30,6 +32,7 @@ Readings:
 - the relationship between content and presentation
 - inline or external?
 - Basics of CSS including syntax, selectors, comments, style, positioning etc
+
 Readings:
 (tbc)
 
