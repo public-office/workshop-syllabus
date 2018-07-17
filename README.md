@@ -49,23 +49,34 @@ The terminal accepts a form of computer code at the prompt called `bash`, and is
 
 `git` should be already installed on your Mac and almost ready to go. However when you first run `git` the XCode Developer Tools will need to be installed.
 
-In your terminal, run
+In your terminal, enter the following command to start the process if necessary.
+
 ```
 git --version
 ```
-to start the process if necessary.
 
-Next, Configure git credentials
+Next tell git to only ask for your password once and remember it.
+
 ```
 git config --global credential.helper osxkeychain
+```
+
+Tell git your name and email address.
+
+```
+git config --global user.name "Your Name"
+```
+
+```
+git config --global user.email "you@example.com"
 ```
 
 ### GitHub
 
 GitHub is an online platform for hosting code and providing tools for publication and collaboration with other developers. Your `git` command line tool will "push" and "pull" code from GitHub.
 
-Visit [GitHub](https://github.com) and create an account.
-Remember your username and password.
+Visit [GitHub](https://github.com) and create an account. Use the name email address you entered into your git config. Remember your username and password.
+
 Your username will form part of your website addresses, ie `https://public-office.github.io/workshop-syllabus`
 
 ### Text editor
