@@ -7,7 +7,7 @@ Mondays, Studio 09.
 This course will begin by looking at your machine, as structure and framework in an effort to understand what the fundamentals of what a website is and how it functions both online and offline. By utilising your knowledge about composition, typography, and hierarchy as a basis – we will draw comparisons between the contemporary tools and the modern web browser as a space for design. The outcome for this series of workshops is a static portfolio.
 
 ### Pre-workshop
-Sign up for a free account at https://github.com - you will be using this account to store and host the work you do for the course, as well as for final submissions.
+[Sign up for a GitHub account](https://github.com) - you will be using this account to store and host the work you do for the course, as well as for final submissions.
 
 ### Readings
 [My website is a shifting house....by Laurel Schwulst](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
