@@ -4,7 +4,7 @@ Masters of Communication Design<br>
 Mondays, Studio 09.
 
 ### Course Outline
-This course will begin by looking at your machine, as structure and framework in an effort to understand what the fundamentals of what a website is and how it functions both online and offline. By utilising your knowledge about composition, typography, and hierarchy as a basis – we will draw comparisons between the contemporary tools and the modern web browser as a space for design. The outcome for this series of workshops is a static portfolio.
+This course will begin by looking at your machine, as system and framework in an effort to understand what the fundamentals of what a website is and how it functions both online and offline. By utilising your knowledge about composition, typography, and hierarchy as a basis – we will draw comparisons between the contemporary tools and the modern web browser as a space for design. The outcome for this series of workshops is a static portfolio.
 
 ### Pre-workshop
 [Sign up for a GitHub account](https://github.com) - you will be using this account to store and host the work you do for the course, as well as for final submissions.
@@ -18,7 +18,7 @@ This course will begin by looking at your machine, as structure and framework in
 - An introduction to using git & github
 
 Readings:
-[The Shape of the Network....by Tung-Hui Hu] (https://ufile.io/cyfeu)
+[The Shape of the Network....by Tung-Hui Hu] (https://ufile.io/qa3s6)
 
 ### Week 2: HTML (Hypertext Markup Language)
 - Basics of document structure
