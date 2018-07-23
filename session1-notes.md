@@ -6,6 +6,7 @@ When in terminal
 - mkdir = make directory
 - touch = make a file
 - ls = list directories and files
+- pwd = print the full pathname of the current working directory
 
 ## Git installation
 Please refer to the readme on the main page of this repository
