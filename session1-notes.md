@@ -11,7 +11,7 @@ When in terminal
 - mv - rename a file eg. ```mv index.hmtl index.html```
 
 ## Git installation
-Please refer to the readme on the main page of this [repository] (https://github.com/public-office/workshop-syllabus)
+Please refer to the readme on the main page of this [repository](https://github.com/public-office/workshop-syllabus).
 
 ## Git commands
 
