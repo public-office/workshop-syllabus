@@ -7,6 +7,8 @@ When in terminal
 - touch = make a file
 - ls = list directories and files
 - pwd = print the full pathname of the current working directory
+- rm = remove file or directory
+
 
 ## Git installation
 Please refer to the readme on the main page of this repository
