@@ -18,7 +18,7 @@ This course will begin by looking at your machine, as system and framework in an
 - An introduction to using git & github
 
 Readings:
-[The Shape of the Network....by Tung-Hui Hu] (https://ufile.io/qa3s6)
+[The Shape of the Network....by Tung-Hui Hu](https://ufile.io/qa3s6)
 
 ### Week 2: HTML (Hypertext Markup Language)
 - Basics of document structure
@@ -26,7 +26,7 @@ Readings:
 - Setting up a project structure
 
 Readings:
-(tbc)
+[Captives of the Cloud Pt.1 by Metahaven](https://www.e-flux.com/journal/37/61232/captives-of-the-cloud-part-i/)
 
 ### Week 3: CSS (Cascading Style Sheets)
 - the relationship between content and presentation
