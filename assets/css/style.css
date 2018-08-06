@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+html {
+  font-size: 10px;
+}
+body {
+  background: #ccc;
+  color: rgb(0, 0, 0);
+  font-size: 2.4rem;
+  font-family: 'Gestalt-Regular', sans-serif;
+  font-weight: normal;
+  line-height: 1;
+}
+/* Typography */
+h1, h2, h3, p, a {
+  font-size: 2.4rem;
+  font-weight: normal;
+  color: black;
+}
+header {
+  background: #ccc;
+  padding: 0.25em;
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  z-index: 10;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0.25em;
+  margin-top: 3.6rem;
+}
+main article {
+  width: calc(100% / 2 - 0.15em);
+  transition: filter ease-in-out 0.25s;
+}
+figure {
+  background: #ccc;
+}
+main article img {
+  filter: grayscale(1);
+  mix-blend-mode: multiply;
+}
+main article:hover img,
+main article:hover figcaption {
+  filter: grayscale(0);
+  mix-blend-mode: initial;
+  color: red;
+}
+.bio {
+  padding-bottom: 1em;
+  column-count: 3;
+  /* display: none; */
+}
+.message {
+  position: fixed;
+  bottom: 0.25em; right: 0.25em;
+  background: white;
+  padding: 1em;
+  width: calc(100% / 3 - 0.15em);
+  box-shadow: 5px 5px 10px black;
+}
+.message:hover {
+  background: blue;
+}
+
+/* main article:nth-of-type(3) {
+  width: 100%;
+} */
+img {
+  max-width: 100%;
+  display: block;
+}
+h1, nav {
+  flex: 1;
+}
+figcaption {
+  padding: 0.25em 0;
+  background: #ccc;
+}
+/* h1 a {
+  color: red;
+} */
